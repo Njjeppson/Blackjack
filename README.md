@@ -4,7 +4,7 @@ This Java program recieves input choices from the user in order to simulate a ga
 
 I wrote this software in order to deepen my understanding of Java in a way that is both fun and complex.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/uwxpSINv5n0)
 
 # Development Environment
 
